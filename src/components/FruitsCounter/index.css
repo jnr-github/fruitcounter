@@ -1,0 +1,30 @@
+.background {
+  background-color: blanchedalmond;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: white;
+  padding: 20%;
+}
+.heading {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+.span {
+  color: blanchedalmond;
+}
+.image {
+  height: 30vh;
+  width: 30vw;
+}
+.button {
+  background-color: blue;
+  color: white;
+}
+.columItems {
+  display: flex;
+  flex-direction: column;
+}
